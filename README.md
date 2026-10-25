@@ -75,9 +75,9 @@ I build **technology solutions for business operations**, combining software eng
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="680" alt="Illustrative engineering focus radar" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-radar-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills-radar-v2-light.svg">
+  <img src="assets/skills-radar-v2-dark.svg" width="680" alt="Illustrative engineering focus radar" />
 </picture>
 
 <sub>Illustrative self-assessment of technical focus; values are not independently validated.</sub>
