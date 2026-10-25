@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Ricardo Hernández — Tech & Business Solutions" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-banner-light.svg">
+  <img src="assets/portrait-banner-dark.svg" width="100%" alt="Ricardo Hernández — Tech & Business Solutions" />
 </picture>
 
 <a href="https://github.com/ricardohema">
@@ -77,7 +77,7 @@ I build **technology solutions for business operations**, combining software eng
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="580" alt="Illustrative engineering focus radar" />
+  <img src="assets/radar-dark.svg" width="680" alt="Illustrative engineering focus radar" />
 </picture>
 
 <sub>Illustrative self-assessment of technical focus; values are not independently validated.</sub>
