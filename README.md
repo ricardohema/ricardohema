@@ -23,6 +23,20 @@
 
 ## `$ whoami`
 
+<table><tr><td width="72%" valign="top">
+
+**Ricardo Hernández**  
+**Tech Innovation Analyst · Software Developer & Automation Engineer**  
+**Mexico City, Mexico · Building for Mexico & LATAM**
+
+I turn business challenges into useful technology: process automation, internal applications, data integrations, browser extensions and operational intelligence.
+
+<a href="https://www.linkedin.com/in/ricardohema/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</td><td width="28%" align="center" valign="middle">
+<img src="assets/profile-photo.png" alt="Portrait of Ricardo Hernández" width="190" />
+</td></tr></table>
+
 ```yaml
 name: Ricardo Hernández
 location: Mexico City, Mexico
@@ -63,7 +77,7 @@ I build **technology solutions for business operations**, combining software eng
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="620" alt="Illustrative engineering focus radar" />
+  <img src="assets/radar-dark.svg" width="580" alt="Illustrative engineering focus radar" />
 </picture>
 
 <sub>Illustrative self-assessment of technical focus; values are not independently validated.</sub>
